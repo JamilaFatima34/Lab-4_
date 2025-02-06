@@ -13,3 +13,11 @@ int y = Convert.ToInt32 (Console.WriteLine);
 int z = x*y
 Console.WriteLine("Product of num is" + int z);
 
+Substraction:
+Console.WriteLine("Enter the first number*);
+int x = Convert.ToInt32 (Console.WriteLine);
+Console.WriteLine("Enter the second number*);
+int y = Convert.ToInt32 (Console.WriteLine);
+int z = x-y
+Console.WriteLine("Subs of num is" + int z);
+
